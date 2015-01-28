@@ -67,7 +67,7 @@ Evan
 3. Create a new text file with the name of your favorite song. Example: `touch blank-space.txt`
 4. Check the status of your repo to confirm that your new file exists and has not yet been added to your repo.
 5. Add the new file to your staging area.
-6. Commit the new file to you repo with the message "added \[filename\].txt to the repo"
+6. Commit the new file to your repo with the message "added \[filename\].txt to the repo"
 7. Open the file in your text editor and write two lines of the song lyrics.
 8. Check the status of your repo to see your changes.
 9. Add your changes to the staging area.
