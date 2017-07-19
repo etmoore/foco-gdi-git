@@ -1,4 +1,6 @@
-# Intro to Git & GitHub with GDI Fort Collins
+# Intro to Git & GitHub
+**Author: Evan Moore**  
+_Presented to Girl Develop It on Wednesday, January 28th 2015 in Fort Collins, CO_
 
 ---
 
